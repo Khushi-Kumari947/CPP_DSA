@@ -1,0 +1,4 @@
+22	khushi	800
+23	rohit	700
+24	sanjan	900
+25	ritik	600

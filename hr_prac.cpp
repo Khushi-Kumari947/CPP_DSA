@@ -1,0 +1,1 @@
+cout<<"In an isosceles triangle two sides a re equal\n";
